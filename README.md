@@ -3,6 +3,7 @@ LittleDelicacies
 
 In addition to adding a Servant who will accompany you,
 It is a mod that adds items and various elements that support the Servant
+
 This is an unofficial 1.16.5 support for LittleMaid Reengaged created by [Verclene] (https://github.com/Verclene).
 
 ---
